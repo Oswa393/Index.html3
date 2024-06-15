@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página del CBTis 165</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la página del CBTis 165</h1>
+    </header>
+    <main>
+        <img src="http://cbtis165.edu.mx/portfolio.html" alt="Logo del CBTis 165">
+        <p>El CBTis 165 es una institución educativa de gran prestigio en Coatepec, Veracruz[^1^][1].</p>
+    </main>
+    <footer>
+        <p>© 2024 CBTis 165. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
